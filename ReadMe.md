@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on C++ <br>👯 I’m looking to collaborate on nothing for now<br>🤝 I’m looking for help with all hehe<br>🌱 I’m currently learning C++<br>💬 Ask me about what you want to<br>
+I’m currently working on C++ <br>You can reach me at coelhodouglas09@gmail.com<br> <br>I’m currently learning C++<br>Ask me about what you want to<br>
 
 
 ## 🌐 Socials:

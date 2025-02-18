@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on C++ <br>You can reach me at coelhodouglas09@gmail.com<br>I’m currently learning C++<br>Ask me about what you want to<br>
+You can reach me at coelhodouglas09@gmail.com<br>I’m currently learning Python<br>Ask me about what you want to<br>
 
 
 ## 🌐 Socials:
